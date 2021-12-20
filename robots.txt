@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://writing.evan.bio
+
+# Sitemaps
+Sitemap: https://writing.evan.bio/sitemap.xml

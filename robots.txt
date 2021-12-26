@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://writing.evan.bio
+Host: https://photos.evan.bio
 
 # Sitemaps
-Sitemap: https://writing.evan.bio/sitemap.xml
+Sitemap: https://photos.evan.bio/sitemap.xml
